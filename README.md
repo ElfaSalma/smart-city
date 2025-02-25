@@ -43,5 +43,5 @@ Vous pouvez installer ces bibliothèques en utilisant `pip` :
 ```bash
 pip install pandas numpy seaborn matplotlib
 
-## 👨‍💻 Auteur
+👨‍💻 Auteur
 Projet réalisé dans le cadre d'un TP sur l'analyse des données immobilières en Californie.
